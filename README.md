@@ -1,2 +1,7 @@
 # PS
-## 문제 푼 것을 저장
+
+source code for PS
+
+-Programmers
+<br>
+-BOJ
